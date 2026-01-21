@@ -1,4 +1,4 @@
-# Portfoilio-Projects
+# Portfoilio Projects Data Analyst
 
 ## **Project 1 (SQL Projects)**  
 Performed e-commerce data analysis in BigQuery with the development of complex SQL queries to obtain new data sets and calculate business metrics.  
